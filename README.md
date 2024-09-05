@@ -54,3 +54,6 @@ npm start
 <div>
     <img src="https://github.com/user-attachments/assets/6e4f7a73-c7b9-40f6-b55b-cdcc23d11631" width="100%">
 </div>
+
+NOTE: sometimes, due to network or even operating system malfunctions, you may receive errors that are not related to errors in the code, such as being reverted by the VM. This code is better to run in
+Linux and if you get an error related to the code, it is most likely the problem with the amount of coins that is sent, and you can re-run the code by increasing its interval (above 0.001) in line 30.
